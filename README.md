@@ -1,4 +1,13 @@
-Applications testées:
+
+Projet C Ensimag en groupe (nous n'avons pas eu le temps de finir, certaines fonctionnalitées ne marchent pas / ne sont pas implémentées)
+
+Pour tester une application: 
+
+Depuis le dossier source, en ligne de commande linux: make applicatio_a_tester.c puis ./application_a_tester
+
+
+
+Applications implémentées:
 
 lines.c:
   test des differentes fonctions de ei_draw.h :
